@@ -11,7 +11,7 @@ module.exports = {
     FB_PAGE_TOKEN: 'EAADfkwobzSgBAK9EwtZALZCZAWltKZAnsdSLjuYf7W0u4S552pcfPjXDfuqIyMEM4bZBRLlRvZBnzPrsxqoQAjZBT2t660Mo806hdNSbnZCjjSnAkn0e1xVWUAFGx6WidZB3Wpm4GIcghQY0NDoXCUWsAzEJSV3yf0jdgSpmSuSitBbBLuh0CnobZA',
     FB_VERIFY_TOKEN: 'dowhatyoucanwithwhatyouhave',
     FB_APP_SECRET: 'f6c8881c5d6828cf7cbae43416b017e6',
-    SERVER_URL: 'https://aqueous-sands-23422.herokuapp.com/',
+    SERVER_URL: 'https://stormy-cove-72544.herokuapp.com/webhook/',
     GOOGLE_PROJECT_ID: 'dowhatyoucanwithwhatyouhave',
     DF_LANGUAGE_CODE: 'en-US',
     GOOGLE_CLIENT_EMAIL: 'dialog-flow-client@testagent-9b7f8.iam.gserviceaccount.com',
